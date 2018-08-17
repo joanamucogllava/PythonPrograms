@@ -1,4 +1,5 @@
-# This program will ask the user to enter 2 numberes and the operator that he wants to use.
+# This program will ask the user to enter 2 numbers and the operator that he wants to use in order to receive the output he needs.
+# Author: Joana Mucogllava
 
 num1 = float(input("Enter the first number: "))
 op = input("Enter the operator: ")
