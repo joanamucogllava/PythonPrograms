@@ -1,4 +1,5 @@
 #This prigram will find the largest number from the given ones.
+#Author: Joana Mucogllava
 
 def max_num(num1, num2, num3):
     if num1 >= num2 and num1 >= num3:
