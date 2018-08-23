@@ -1,6 +1,3 @@
-#This is a dictionary about months of the year.
-# Author: Joana Mucogllava
-
 monthConversions = {
     "Jan" : "January",
     "Feb" : "February",
