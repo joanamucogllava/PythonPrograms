@@ -1,3 +1,6 @@
+# This program will raise the given base number to the given power number and print out the result.
+
+
 def raise_to_power(base_num, pow_num):
     result = 1
     for index in range(pow_num):
