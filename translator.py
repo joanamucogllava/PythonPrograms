@@ -1,3 +1,5 @@
+# This program will ask the user to enter a phrase and translate it by changing the vowels into "g" letter.
+
 def translate(phrase):
     translation = ""
     for letter in phrase:
