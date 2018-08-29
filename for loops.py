@@ -1,3 +1,5 @@
+# This small programs will show some properties of the "for loop".
+
 for letter in "Joana Mucogllava":
     print(letter)
 
