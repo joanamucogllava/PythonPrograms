@@ -1,4 +1,5 @@
 # This small programs will show some properties of the "for loop".
+# Author: Joana Mucogllava
 
 for letter in "Joana Mucogllava":
     print(letter)
