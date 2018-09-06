@@ -1,3 +1,9 @@
+# In this program a traditional game has been designed, wich will ask 2 different users to introduce their names
+# and choose one of the given options in order to see if their selction will win or loose. 
+# Any invalid sku entered will be detected by the program and ask the user to try it again.
+
+# Author: Joana Mucogllava
+
 import sys
 
 user1 = input("What is your name? ")
