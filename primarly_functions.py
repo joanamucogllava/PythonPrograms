@@ -1,3 +1,7 @@
+# This program will ask the user to insert a number and than it will determine
+# whether or not this number is pime.
+# Author: Joana Mucogllava
+
 num = int(input("Insert a number: "))
 a = [x for x in range(2,num) if num % x == 0]
 
