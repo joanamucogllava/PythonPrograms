@@ -1,3 +1,5 @@
+# This program will ask you to insert how many numbers you want to generate using fibonacci sequence.
+
 def fibonacci():
     num = int(input("How many numbers that generates?:"))
     i = 1
