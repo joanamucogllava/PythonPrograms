@@ -1,5 +1,4 @@
-#This is a simple dictionary about months of the year.
-#Author: Joana Mucogllava
+# This is a simple dictionary about months of the year.
 
 monthConversions = {
     "Jan" : "January",
