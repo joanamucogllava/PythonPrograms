@@ -1,3 +1,7 @@
+# This program is going to ask the user to guess a random number
+# between 0 and 100 until they find the secret number.
+# Author: Joana Mucogllava
+
 import random
 number = random.randint(0, 100)
 guesses = 0
