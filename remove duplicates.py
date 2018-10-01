@@ -1,3 +1,6 @@
+# This function takes a list and returns a new list that contains all the 
+# elements of the first list despite the ones that are duplicated.
+
 def dedupe_v1(x):
     y = []
     for i in x:
