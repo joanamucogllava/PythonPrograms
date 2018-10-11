@@ -1,3 +1,5 @@
+# This program will show you the current time.
+
 import time
 
 currentTime = time.time()
