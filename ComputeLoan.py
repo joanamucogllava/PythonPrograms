@@ -1,3 +1,6 @@
+# This program will calculate for you the monthly and total payment 
+# once you enter annual interest rate, number of years, and loan amount.
+
 annualInterestRate = eval(input(
     "Enter annual interest rate, e.g., 7.25: "))
 monthlyInterestRate = annualInterestRate / 1200
