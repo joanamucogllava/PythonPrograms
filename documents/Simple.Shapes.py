@@ -1,3 +1,5 @@
+# This program will use turtle to draw 5 different shapes.
+
 import turtle
 turtle.pensize(3)
 turtle.penup()
