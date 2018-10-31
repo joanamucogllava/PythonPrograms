@@ -1,3 +1,5 @@
+# This program will ask you to enter a year and based on the conditions will give you the name of the animal corresponding to it. 
+
 for i in range(1, 10):
     year = eval(input("Enter a year: "))
 
