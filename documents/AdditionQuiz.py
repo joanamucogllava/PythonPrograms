@@ -1,3 +1,5 @@
+# This program will ask you to find the sum of the 2 random numberes from 0 to 9. 
+
 import random
 
 number1 = random.randint(0, 9)
