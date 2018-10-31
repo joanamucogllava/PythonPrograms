@@ -1,3 +1,5 @@
+# Author: Joana Mucogllava
+
 for i in range(1, 10):
     number = eval(input("Enter an integer: "))
     if number % 5 == 0:
