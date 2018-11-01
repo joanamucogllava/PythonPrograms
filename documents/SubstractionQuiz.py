@@ -1,3 +1,5 @@
+# This quiz will test your knowledge in subtracting 2 random numbers between 0 and 100.
+
 import random
 
 number1 = random.randint(0, 100)
