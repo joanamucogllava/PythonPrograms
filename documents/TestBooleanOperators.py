@@ -1,3 +1,5 @@
+# This program will check if the entered number by the user will be divisible by 2 or 3 or both.
+
 number = eval(input("Enter an integer: "))
 
 if number % 2 == 0 and number % 3 == 0:
