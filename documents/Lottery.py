@@ -1,3 +1,6 @@
+# This is a lottery game that will ask you to pick your number 
+# and based on your choice you will be consider a winner or a looser. 
+
 import random
 
 lottery = random.randint(0, 99)
