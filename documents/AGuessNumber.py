@@ -1,3 +1,5 @@
+# This program will ask you to guess a number up to 100 until you find it.
+
 import random
 
 number = random.randint(0, 100)
