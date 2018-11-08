@@ -1,3 +1,6 @@
+# This program will ask you to enter 2 integers and 
+# will find their GDS.
+
 n1 = eval(input("Enter first integer: "))
 n2 = eval(input("Enter second integer: "))
                 
