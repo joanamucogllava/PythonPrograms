@@ -1,3 +1,5 @@
+# This program will show you what will be your tuition after 11 years.
+
 year = 0
 tuition = 10000
 
