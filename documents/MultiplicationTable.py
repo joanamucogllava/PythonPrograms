@@ -1,3 +1,5 @@
+# This table will multiply numbers from 1 to 9.
+
 print("         Multiplication Table")
 
 print("    ", end = '')
