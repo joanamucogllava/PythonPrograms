@@ -1,3 +1,5 @@
+# This program has some small problems that need to be fixed.
+
 def printGrade(score):
     if score >= 90.0:
         print('A')
