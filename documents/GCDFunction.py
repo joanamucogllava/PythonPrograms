@@ -1,3 +1,5 @@
+# This program is finding the GDC of two entered integers by the user. 
+
 def gcd(n1, n2):
     gcd = 1
     k = 2
