@@ -1,3 +1,4 @@
+# Practice Code
 import random
 
 NUMBER_OF_TRIALS = 1000000
