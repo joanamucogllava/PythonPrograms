@@ -1,3 +1,6 @@
+# This program will show the provided birthdays and you will pick up which one you want to look for.
+
+
 import time
 Birthday = {
     "Utku Yurter": "03/17/1998",
