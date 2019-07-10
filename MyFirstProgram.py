@@ -1,5 +1,5 @@
 #This program will print a triangle shape.
-#Author: Joana Mucogllava
+#This is a practice program for beginners.
 
 print("   /|")
 print("  / |")
