@@ -1,3 +1,5 @@
+# This is a practice program.
+
 import turtle
 turtle.showturtle()
 turtle.write("Joana Mucogllava")
