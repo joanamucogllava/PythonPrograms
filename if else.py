@@ -1,4 +1,5 @@
 # Author: Joana Mucogllava
+# This is a practice program.
 a = 'y'
 while(a == 'y' or a == 'Y'):
     
