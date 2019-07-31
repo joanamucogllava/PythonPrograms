@@ -1,4 +1,5 @@
 # This small programs will show some properties of the "for loop".
+# This is a practice program.
 # Author: Joana Mucogllava
 
 for letter in "Joana Mucogllava":
