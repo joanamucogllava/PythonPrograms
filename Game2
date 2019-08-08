@@ -1,3 +1,5 @@
+# This is a guessing game!
+
 import random
 import sys
 
