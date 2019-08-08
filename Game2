@@ -1,0 +1,37 @@
+import random
+import sys
+
+list = []
+target = 0
+def main():
+    print("Welcome to the Guessing Game!")
+    start, end = input("Enter your range of numbers(Start, End) : ").split(",")
+    createList(int(start), int(end))
+    setTarget(int(start), int(end))
+    inp = input("Make a guess: ")
+    while not guess(int(inp)):
+        inp = input("Make a guess: ")
+
+def createList(start, end):
+    temp = start
+    while temp != end +1:
+        list.append(temp)
+        temp += 1
+
+def guess(guess):
+    global target
+    if guess < target:
+        print("Your guess is too low!")
+        return False
+    elif guess > target:
+        print("Your guess is too high!")
+        return False
+    else:
+        print("Congrats! You found it!")
+        return True
+
+def setTarget(start, end):
+    global target
+    target = random.randint(start, end)
+
+main()
